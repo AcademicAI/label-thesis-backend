@@ -1,0 +1,3 @@
+gunicorn==20.1.0
+Pillow==10.0.0
+git+https://github.com/AcademicAI/label-studio-ml-backend.git
